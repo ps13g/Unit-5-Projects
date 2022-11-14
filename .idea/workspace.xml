@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db3cc60-fd08-4944-8d1b-c78d167b935e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dragon2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DragonTester2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FractionTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
