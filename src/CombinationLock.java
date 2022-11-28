@@ -64,7 +64,7 @@ public class CombinationLock {
         return modifiedGuess;
     }
     public static void main(String []args) {
-        CombinationLock c1 = new CombinationLock("frog");
+        CombinationLock c1 = new CombinationLock("");
         System.out.println(c1.getClue("frog"));
     }
 }
